@@ -13,9 +13,19 @@ more_movies = [
   {:title => 'Everything Everywhere All at Once', :rating => 'M18',
     :release_date => '11-Mar-2022'},
   {:title => 'Heartstopper', :rating => 'P13',
-    :release_date => '22-April-2022'}
-  {:title => 'The House Of Flowers: The Movie', :rating => 'P13',
-    :release_date => '23-June-2021'}
+    :release_date => '22-April-2022'},
+  {:title => 'The House Of Flowers The Movie', :rating => 'P13',
+    :release_date => '23-June-2021'},
+  {:title => 'My Neighbor Totoro', :rating => 'G',
+    :release_date => '16-Apr-1988'},
+  {:title => 'Green Book', :rating => 'PG-13',
+    :release_date => '16-Nov-2018'},
+  {:title => 'Parasite', :rating => 'R',
+    :release_date => '30-May-2019'},
+  {:title => 'Nomadland', :rating => 'R',
+    :release_date => '19-Feb-2021'},
+  {:title => 'CODA', :rating => 'PG-13',
+    :release_date => '13-Aug-2021'}
 ]
 
 more_movies.each do |movie|
